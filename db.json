@@ -1,0 +1,631 @@
+{
+  "11-2019" : {
+    "11-2019" : {
+      "events" : [
+      {
+        "date": "2019-11-27",
+        "opensAt": null,
+        "closesAt": null,
+        "status": "Closed",
+        "title": "",
+        "titleShort": "",
+        "isRegular": true
+        },
+        {
+        "date": "2019-11-28",
+        "opensAt": "10:00",
+        "closesAt": "19:00",
+        "status": "Open",
+        "title": "",
+        "titleShort": "",
+        "isRegular": true
+        },
+        {
+        "date": "2019-11-29",
+        "opensAt": null,
+        "closesAt": null,
+        "status": "Closed",
+        "title": "",
+        "titleShort": "",
+        "isRegular": true
+      }
+    ]
+    },
+    "12-2019" : {
+      "events" : [
+      {
+      "date": "2019-11-27",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-11-28",
+      "opensAt": "10:00",
+      "closesAt": "19:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-11-29",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-11-30",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-01",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-02",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-03",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "Lego house tour",
+      "titleShort": "TOUR",
+      "isRegular": false
+      },
+      {
+      "date": "2019-12-04",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-05",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-06",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-07",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-08",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-09",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "Lego fan tour",
+      "titleShort": "FAN",
+      "isRegular": false
+      },
+      {
+      "date": "2019-12-10",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-11",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-12",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-13",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-14",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-15",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-16",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-17",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "SoldOut",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-18",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "SoldOut",
+      "title": "Lego fan tour",
+      "titleShort": "FAN",
+      "isRegular": false
+      },
+      {
+      "date": "2019-12-19",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "Lego fan tour",
+      "titleShort": "FAN",
+      "isRegular": false
+      },
+      {
+      "date": "2019-12-20",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-21",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-22",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-23",
+      "opensAt": "09:00",
+      "closesAt": "20:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-25",
+      "opensAt": "10:00",
+      "closesAt": "19:00",
+      "status": "Open",
+      "title": "Lego house tour",
+      "titleShort": "TOUR",
+      "isRegular": false
+      },
+      {
+      "date": "2019-12-26",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-27",
+      "opensAt": "10:00",
+      "closesAt": "19:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-28",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-29",
+      "opensAt": "10:00",
+      "closesAt": "19:00",
+      "status": "SoldOut",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-30",
+      "opensAt": "10:00",
+      "closesAt": "19:00",
+      "status": "SoldOut",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2019-12-31",
+      "opensAt": "10:00",
+      "closesAt": "19:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      }
+      ]
+    }
+  },
+  "1-2020" : {
+    "1-2020" : {
+      "events": [
+      {
+      "date": "2020-01-01",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-02",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "Lego fan tour",
+      "titleShort": "FAN",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-03",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "Lego house tour",
+      "titleShort": "TOUR",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-04",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-05",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-06",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-07",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-08",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-09",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-10",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-11",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-12",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-13",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "Lego house tour",
+      "titleShort": "TOUR",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-14",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "Lego house tour",
+      "titleShort": "TOUR",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-15",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "SoldOut",
+      "title": "Lego fan tour",
+      "titleShort": "FAN",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-16",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "SoldOut",
+      "title": "Lego fan tour",
+      "titleShort": "FAN",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-17",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-18",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-19",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-20",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "SoldOut",
+      "title": "Lego fan tour",
+      "titleShort": "FAN",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-21",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "Open",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-22",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "SoldOut",
+      "title": "Lego house tour",
+      "titleShort": "TOUR",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-23",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-24",
+      "opensAt": null,
+      "closesAt": null,
+      "status": "Closed",
+      "title": "",
+      "titleShort": "",
+      "isRegular": true
+      },
+      {
+      "date": "2020-01-25",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "SoldOut",
+      "title": "Lego fan tour",
+      "titleShort": "FAN",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-26",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "SoldOut",
+      "title": "Lego fan tour",
+      "titleShort": "FAN",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-27",
+      "opensAt": "09:00",
+      "closesAt": "21:00",
+      "status": "SoldOut",
+      "title": "Lego fan tour",
+      "titleShort": "FAN",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-28",
+      "opensAt": "09:00",
+      "closesAt": "17:30",
+      "status": "Open",
+      "title": "Lego hour tour",
+      "titleShort": "TOUR",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-29",
+      "opensAt": "09:00",
+      "closesAt": "17:30",
+      "status": "Open",
+      "title": "Lego hour tour",
+      "titleShort": "TOUR",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-30",
+      "opensAt": "09:00",
+      "closesAt": "17:30",
+      "status": "Open",
+      "title": "Lego hour tour",
+      "titleShort": "TOUR",
+      "isRegular": false
+      },
+      {
+      "date": "2020-01-31",
+      "opensAt": "09:00",
+      "closesAt": "17:30",
+      "status": "Open",
+      "title": "Lego hour tour",
+      "titleShort": "TOUR",
+      "isRegular": false
+      }
+      ]
+      }
+  }
+
+}
